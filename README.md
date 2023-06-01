@@ -1,8 +1,8 @@
-### Playwing activity Austria T Mobile ###
+### Playwing activity Austria A1 Mobile ###
 
 Markup project created by figma design.
 
-Demo link [url](https://dubisoft-solutions.github.io/playwing-austria-t-mobile/ "Demo project link")
+Demo link [url](https://dubisoft-solutions.github.io/playwing-austria-a1/ "Demo project link")
 
 ## Project structure ##
 
